@@ -7,3 +7,4 @@ Commit on 2023-01-25 15:26:01: chore: Update dependencies for Computer-Vision-Ob
 Commit on 2023-01-25 16:48:15: docs: Update README for Computer-Vision-Object-Detection-CPP
 Commit on 2023-02-01 15:06:06: perf: Optimize Computer-Vision-Object-Detection-CPP performance
 Commit on 2023-02-02 13:56:39: Enhance data loader in Computer-Vision-Object-Detection-CPP
+Commit on 2023-02-06 12:35:05: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
