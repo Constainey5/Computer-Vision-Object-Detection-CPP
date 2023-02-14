@@ -11,3 +11,4 @@ Commit on 2023-02-06 12:35:05: refactor: Improve code readability in Computer-Vi
 Commit on 2023-02-06 13:19:05: ci: Configure CI/CD pipeline for Computer-Vision-Object-Detection-CPP
 Commit on 2023-02-08 13:07:42: Implement user authentication in Computer-Vision-Object-Detection-CPP
 Commit on 2023-02-10 13:17:20: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
+Commit on 2023-02-14 09:18:43: style: Format code according to standards in Computer-Vision-Object-Detection-CPP
