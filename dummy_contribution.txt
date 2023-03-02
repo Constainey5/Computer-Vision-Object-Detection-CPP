@@ -17,3 +17,4 @@ Commit on 2023-02-23 12:58:11: test: Add unit tests for Computer-Vision-Object-D
 Commit on 2023-02-27 11:04:46: chore: Update dependencies for Computer-Vision-Object-Detection-CPP
 Commit on 2023-02-28 11:01:23: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
 Commit on 2023-03-02 09:15:58: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
+Commit on 2023-03-02 11:19:59: ci: Configure CI/CD pipeline for Computer-Vision-Object-Detection-CPP
