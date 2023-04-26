@@ -27,3 +27,4 @@ Commit on 2023-04-07 12:47:12: build: Update build configuration for Computer-Vi
 Commit on 2023-04-18 11:25:20: chore: Update dependencies for Computer-Vision-Object-Detection-CPP
 Commit on 2023-04-19 09:45:06: Enhance frontend in Computer-Vision-Object-Detection-CPP
 Commit on 2023-04-25 09:14:49: fix: Resolve bug in Computer-Vision-Object-Detection-CPP module
+Commit on 2023-04-26 09:08:19: docs: Update README for Computer-Vision-Object-Detection-CPP
