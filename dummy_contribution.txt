@@ -40,3 +40,4 @@ Commit on 2023-06-20 09:18:43: Enhance frontend in Computer-Vision-Object-Detect
 Commit on 2023-06-20 16:58:02: fix: Resolve bug in Computer-Vision-Object-Detection-CPP module
 Commit on 2023-06-20 17:19:53: ci: Configure CI/CD pipeline for Computer-Vision-Object-Detection-CPP
 Commit on 2023-06-21 16:46:22: test: Add unit tests for Computer-Vision-Object-Detection-CPP functionality
+Commit on 2023-06-28 10:17:28: feat: Add new feature for Computer-Vision-Object-Detection-CPP
