@@ -45,3 +45,4 @@ Commit on 2023-07-03 15:07:41: fix: Resolve bug in Computer-Vision-Object-Detect
 Commit on 2023-07-14 11:40:40: feat: Add new feature for Computer-Vision-Object-Detection-CPP
 Commit on 2023-07-18 17:44:32: perf: Optimize Computer-Vision-Object-Detection-CPP performance
 Commit on 2023-07-24 13:52:57: style: Format code according to standards in Computer-Vision-Object-Detection-CPP
+Commit on 2023-07-28 11:38:21: fix: Resolve bug in Computer-Vision-Object-Detection-CPP module
