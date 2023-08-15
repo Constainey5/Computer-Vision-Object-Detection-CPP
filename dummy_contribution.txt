@@ -47,3 +47,4 @@ Commit on 2023-07-18 17:44:32: perf: Optimize Computer-Vision-Object-Detection-C
 Commit on 2023-07-24 13:52:57: style: Format code according to standards in Computer-Vision-Object-Detection-CPP
 Commit on 2023-07-28 11:38:21: fix: Resolve bug in Computer-Vision-Object-Detection-CPP module
 Commit on 2023-08-11 17:58:44: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
+Commit on 2023-08-15 11:47:01: Enhance configuration management in Computer-Vision-Object-Detection-CPP
