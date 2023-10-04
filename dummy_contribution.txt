@@ -55,3 +55,4 @@ Commit on 2023-09-05 11:58:43: docs: Update README for Computer-Vision-Object-De
 Commit on 2023-09-21 12:24:50: fix: Resolve bug in Computer-Vision-Object-Detection-CPP module
 Commit on 2023-09-25 12:21:43: ci: Configure CI/CD pipeline for Computer-Vision-Object-Detection-CPP
 Commit on 2023-10-03 09:58:29: Fix API response format in Computer-Vision-Object-Detection-CPP
+Commit on 2023-10-04 12:29:49: Enhance configuration management in Computer-Vision-Object-Detection-CPP
