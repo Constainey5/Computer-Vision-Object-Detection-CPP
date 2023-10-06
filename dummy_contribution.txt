@@ -57,3 +57,4 @@ Commit on 2023-09-25 12:21:43: ci: Configure CI/CD pipeline for Computer-Vision-
 Commit on 2023-10-03 09:58:29: Fix API response format in Computer-Vision-Object-Detection-CPP
 Commit on 2023-10-04 12:29:49: Enhance configuration management in Computer-Vision-Object-Detection-CPP
 Commit on 2023-10-06 11:18:18: feat: Add new feature for Computer-Vision-Object-Detection-CPP
+Commit on 2023-10-06 17:39:31: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
