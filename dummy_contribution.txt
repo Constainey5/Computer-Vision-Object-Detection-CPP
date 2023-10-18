@@ -60,3 +60,4 @@ Commit on 2023-10-06 11:18:18: feat: Add new feature for Computer-Vision-Object-
 Commit on 2023-10-06 17:39:31: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
 Commit on 2023-10-11 10:24:23: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
 Commit on 2023-10-16 16:05:19: Initial commit for Computer-Vision-Object-Detection-CPP
+Commit on 2023-10-18 16:43:12: style: Format code according to standards in Computer-Vision-Object-Detection-CPP
