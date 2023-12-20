@@ -77,3 +77,4 @@ Commit on 2023-12-11 13:50:18: Merge pull request #21 from feature/model-trainin
 Commit on 2023-12-12 14:37:51: Fix API response format in Computer-Vision-Object-Detection-CPP
 Commit on 2023-12-18 11:01:39: ci: Configure CI/CD pipeline for Computer-Vision-Object-Detection-CPP
 Commit on 2023-12-18 12:18:02: Enhance backend service in Computer-Vision-Object-Detection-CPP
+Commit on 2023-12-20 13:45:41: build: Update build configuration for Computer-Vision-Object-Detection-CPP
