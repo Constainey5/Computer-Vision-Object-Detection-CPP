@@ -80,3 +80,4 @@ Commit on 2023-12-18 12:18:02: Enhance backend service in Computer-Vision-Object
 Commit on 2023-12-20 13:45:41: build: Update build configuration for Computer-Vision-Object-Detection-CPP
 Commit on 2023-12-20 14:43:29: Enhance configuration management in Computer-Vision-Object-Detection-CPP
 Commit on 2023-12-27 12:04:36: docs: Update README for Computer-Vision-Object-Detection-CPP
+Commit on 2023-12-28 14:28:37: build: Update build configuration for Computer-Vision-Object-Detection-CPP
