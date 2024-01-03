@@ -83,3 +83,4 @@ Commit on 2023-12-27 12:04:36: docs: Update README for Computer-Vision-Object-De
 Commit on 2023-12-28 14:28:37: build: Update build configuration for Computer-Vision-Object-Detection-CPP
 Commit on 2024-01-03 12:46:32: test: Add unit tests for Computer-Vision-Object-Detection-CPP functionality
 Commit on 2024-01-03 13:03:59: Implement logging mechanism in Computer-Vision-Object-Detection-CPP
+Commit on 2024-01-03 15:47:22: chore: Update dependencies for Computer-Vision-Object-Detection-CPP
