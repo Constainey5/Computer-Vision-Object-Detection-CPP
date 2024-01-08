@@ -85,3 +85,4 @@ Commit on 2024-01-03 12:46:32: test: Add unit tests for Computer-Vision-Object-D
 Commit on 2024-01-03 13:03:59: Implement logging mechanism in Computer-Vision-Object-Detection-CPP
 Commit on 2024-01-03 15:47:22: chore: Update dependencies for Computer-Vision-Object-Detection-CPP
 Commit on 2024-01-08 09:02:05: Enhance frontend in Computer-Vision-Object-Detection-CPP
+Commit on 2024-01-08 13:06:16: Enhance frontend in Computer-Vision-Object-Detection-CPP
