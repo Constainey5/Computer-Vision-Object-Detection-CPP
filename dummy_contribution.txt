@@ -104,3 +104,4 @@ Commit on 2024-04-22 09:32:13: Enhance inference engine in Computer-Vision-Objec
 Commit on 2024-04-22 10:56:02: perf: Optimize Computer-Vision-Object-Detection-CPP performance
 Commit on 2024-04-25 15:50:02: build: Update build configuration for Computer-Vision-Object-Detection-CPP
 Commit on 2024-04-30 11:09:27: test: Add unit tests for Computer-Vision-Object-Detection-CPP functionality
+Commit on 2024-05-03 11:19:01: chore: Update dependencies for Computer-Vision-Object-Detection-CPP
