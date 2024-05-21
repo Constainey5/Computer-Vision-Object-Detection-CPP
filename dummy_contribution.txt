@@ -109,3 +109,4 @@ Commit on 2024-05-03 12:28:43: Implement database schema in Computer-Vision-Obje
 Commit on 2024-05-16 16:34:49: fix: Resolve bug in Computer-Vision-Object-Detection-CPP module
 Commit on 2024-05-17 10:27:59: Fix memory leak in Computer-Vision-Object-Detection-CPP
 Commit on 2024-05-17 15:58:00: Implement logging mechanism in Computer-Vision-Object-Detection-CPP
+Commit on 2024-05-21 10:55:15: ci: Configure CI/CD pipeline for Computer-Vision-Object-Detection-CPP
