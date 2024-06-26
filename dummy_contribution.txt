@@ -117,3 +117,4 @@ Commit on 2024-06-11 15:57:34: Merge pull request #47 from feature/security-patc
 Commit on 2024-06-18 09:28:44: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
 Commit on 2024-06-19 16:14:25: fix: Resolve bug in Computer-Vision-Object-Detection-CPP module
 Commit on 2024-06-21 14:19:15: feat: Add new feature for Computer-Vision-Object-Detection-CPP
+Commit on 2024-06-26 17:01:03: build: Update build configuration for Computer-Vision-Object-Detection-CPP
