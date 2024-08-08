@@ -123,3 +123,4 @@ Commit on 2024-07-09 16:46:02: Fix off-by-one error in Computer-Vision-Object-De
 Commit on 2024-07-15 12:12:06: docs: Update README for Computer-Vision-Object-Detection-CPP
 Commit on 2024-07-22 13:56:10: Enhance frontend in Computer-Vision-Object-Detection-CPP
 Commit on 2024-08-01 16:07:51: Fix race condition in Computer-Vision-Object-Detection-CPP
+Commit on 2024-08-08 14:54:24: ci: Configure CI/CD pipeline for Computer-Vision-Object-Detection-CPP
