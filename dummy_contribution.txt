@@ -128,3 +128,4 @@ Commit on 2024-08-15 11:08:06: docs: Update README for Computer-Vision-Object-De
 Commit on 2024-08-20 10:11:48: Initial commit for Computer-Vision-Object-Detection-CPP
 Commit on 2024-08-23 15:12:02: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
 Commit on 2024-08-26 13:42:09: Implement database schema in Computer-Vision-Object-Detection-CPP
+Commit on 2024-09-09 10:30:16: build: Update build configuration for Computer-Vision-Object-Detection-CPP
