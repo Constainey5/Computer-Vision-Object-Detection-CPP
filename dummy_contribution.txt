@@ -132,3 +132,4 @@ Commit on 2024-09-09 10:30:16: build: Update build configuration for Computer-Vi
 Commit on 2024-09-09 17:50:52: test: Add unit tests for Computer-Vision-Object-Detection-CPP functionality
 Commit on 2024-09-12 11:58:25: feat: Add new feature for Computer-Vision-Object-Detection-CPP
 Commit on 2024-09-25 09:33:46: docs: Update README for Computer-Vision-Object-Detection-CPP
+Commit on 2024-10-03 14:50:26: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
