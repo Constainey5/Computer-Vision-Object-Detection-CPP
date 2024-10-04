@@ -133,3 +133,4 @@ Commit on 2024-09-09 17:50:52: test: Add unit tests for Computer-Vision-Object-D
 Commit on 2024-09-12 11:58:25: feat: Add new feature for Computer-Vision-Object-Detection-CPP
 Commit on 2024-09-25 09:33:46: docs: Update README for Computer-Vision-Object-Detection-CPP
 Commit on 2024-10-03 14:50:26: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
+Commit on 2024-10-04 13:04:08: perf: Optimize Computer-Vision-Object-Detection-CPP performance
