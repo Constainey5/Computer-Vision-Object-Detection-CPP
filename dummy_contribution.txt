@@ -143,3 +143,4 @@ Commit on 2024-10-18 13:28:36: refactor: Improve code readability in Computer-Vi
 Commit on 2024-10-23 15:48:14: Merge pull request #95 from feature/data-processing
 Commit on 2024-10-23 17:04:46: style: Format code according to standards in Computer-Vision-Object-Detection-CPP
 Commit on 2024-10-29 15:23:46: Initial commit for Computer-Vision-Object-Detection-CPP
+Commit on 2024-10-29 16:06:11: Fix UI glitch in Computer-Vision-Object-Detection-CPP
