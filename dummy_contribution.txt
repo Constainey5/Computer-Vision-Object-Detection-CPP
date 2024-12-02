@@ -149,3 +149,4 @@ Commit on 2024-11-11 10:22:40: docs: Update README for Computer-Vision-Object-De
 Commit on 2024-11-21 16:51:56: Enhance data loader in Computer-Vision-Object-Detection-CPP
 Commit on 2024-11-26 09:27:25: Fix off-by-one error in Computer-Vision-Object-Detection-CPP
 Commit on 2024-11-26 10:56:17: style: Format code according to standards in Computer-Vision-Object-Detection-CPP
+Commit on 2024-12-02 17:05:10: feat: Add new feature for Computer-Vision-Object-Detection-CPP
