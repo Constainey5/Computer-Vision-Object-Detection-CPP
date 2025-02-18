@@ -163,3 +163,4 @@ Commit on 2025-02-14 11:06:47: ci: Configure CI/CD pipeline for Computer-Vision-
 Commit on 2025-02-14 16:32:32: test: Add unit tests for Computer-Vision-Object-Detection-CPP functionality
 Commit on 2025-02-17 12:27:37: chore: Update dependencies for Computer-Vision-Object-Detection-CPP
 Commit on 2025-02-18 09:16:16: style: Format code according to standards in Computer-Vision-Object-Detection-CPP
+Commit on 2025-02-18 10:16:53: test: Add unit tests for Computer-Vision-Object-Detection-CPP functionality
