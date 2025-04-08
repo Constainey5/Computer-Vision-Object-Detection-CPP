@@ -171,3 +171,4 @@ Commit on 2025-03-05 09:44:07: docs: Update README for Computer-Vision-Object-De
 Commit on 2025-03-07 12:11:19: chore: Update dependencies for Computer-Vision-Object-Detection-CPP
 Commit on 2025-03-17 15:38:38: style: Format code according to standards in Computer-Vision-Object-Detection-CPP
 Commit on 2025-04-02 16:01:01: Enhance configuration management in Computer-Vision-Object-Detection-CPP
+Commit on 2025-04-08 11:50:15: Fix UI glitch in Computer-Vision-Object-Detection-CPP
