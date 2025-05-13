@@ -173,3 +173,4 @@ Commit on 2025-03-17 15:38:38: style: Format code according to standards in Comp
 Commit on 2025-04-02 16:01:01: Enhance configuration management in Computer-Vision-Object-Detection-CPP
 Commit on 2025-04-08 11:50:15: Fix UI glitch in Computer-Vision-Object-Detection-CPP
 Commit on 2025-04-15 09:46:20: Enhance inference engine in Computer-Vision-Object-Detection-CPP
+Commit on 2025-05-13 09:17:22: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
