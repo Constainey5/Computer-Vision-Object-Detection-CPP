@@ -177,3 +177,4 @@ Commit on 2025-05-13 09:17:22: refactor: Improve code readability in Computer-Vi
 Commit on 2025-05-22 10:36:07: fix: Resolve bug in Computer-Vision-Object-Detection-CPP module
 Commit on 2025-05-27 17:42:13: chore: Update dependencies for Computer-Vision-Object-Detection-CPP
 Commit on 2025-05-29 10:31:24: Fix UI glitch in Computer-Vision-Object-Detection-CPP
+Commit on 2025-06-06 09:03:38: Enhance data loader in Computer-Vision-Object-Detection-CPP
