@@ -182,3 +182,4 @@ Commit on 2025-06-06 16:19:28: ci: Configure CI/CD pipeline for Computer-Vision-
 Commit on 2025-06-09 15:07:59: chore: Update dependencies for Computer-Vision-Object-Detection-CPP
 Commit on 2025-06-11 15:41:57: Implement API endpoint in Computer-Vision-Object-Detection-CPP
 Commit on 2025-06-16 17:39:49: Initial commit for Computer-Vision-Object-Detection-CPP
+Commit on 2025-06-18 17:03:57: refactor: Improve code readability in Computer-Vision-Object-Detection-CPP
