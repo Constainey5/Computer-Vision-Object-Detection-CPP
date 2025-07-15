@@ -189,3 +189,4 @@ Commit on 2025-07-03 10:24:22: test: Add unit tests for Computer-Vision-Object-D
 Commit on 2025-07-11 12:03:32: style: Format code according to standards in Computer-Vision-Object-Detection-CPP
 Commit on 2025-07-14 17:30:00: docs: Update README for Computer-Vision-Object-Detection-CPP
 Commit on 2025-07-15 11:58:46: Enhance frontend in Computer-Vision-Object-Detection-CPP
+Commit on 2025-07-15 13:22:41: chore: Update dependencies for Computer-Vision-Object-Detection-CPP
