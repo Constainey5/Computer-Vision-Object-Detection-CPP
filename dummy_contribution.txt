@@ -194,3 +194,4 @@ Commit on 2025-07-15 14:19:15: Enhance frontend in Computer-Vision-Object-Detect
 Commit on 2025-07-22 15:50:42: fix: Resolve bug in Computer-Vision-Object-Detection-CPP module
 Commit on 2025-08-05 14:12:17: Initial commit for Computer-Vision-Object-Detection-CPP
 Commit on 2025-08-05 16:06:32: fix: Resolve bug in Computer-Vision-Object-Detection-CPP module
+Commit on 2025-08-06 11:55:18: perf: Optimize Computer-Vision-Object-Detection-CPP performance
