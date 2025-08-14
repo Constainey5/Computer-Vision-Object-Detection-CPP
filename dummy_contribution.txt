@@ -197,3 +197,4 @@ Commit on 2025-08-05 16:06:32: fix: Resolve bug in Computer-Vision-Object-Detect
 Commit on 2025-08-06 11:55:18: perf: Optimize Computer-Vision-Object-Detection-CPP performance
 Commit on 2025-08-11 10:22:57: Initial commit for Computer-Vision-Object-Detection-CPP
 Commit on 2025-08-12 12:15:29: perf: Optimize Computer-Vision-Object-Detection-CPP performance
+Commit on 2025-08-14 11:29:32: build: Update build configuration for Computer-Vision-Object-Detection-CPP
