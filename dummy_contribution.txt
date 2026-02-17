@@ -228,3 +228,4 @@ Commit on 2026-01-16 16:04:41: chore: Update dependencies for Computer-Vision-Ob
 Commit on 2026-01-19 13:32:10: perf: Optimize Computer-Vision-Object-Detection-CPP performance
 Commit on 2026-01-28 11:17:20: Initial commit for Computer-Vision-Object-Detection-CPP
 Commit on 2026-01-28 16:00:37: Enhance data loader in Computer-Vision-Object-Detection-CPP
+Commit on 2026-02-17 10:47:41: Implement data validation in Computer-Vision-Object-Detection-CPP
