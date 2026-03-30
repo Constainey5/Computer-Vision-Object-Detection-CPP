@@ -240,3 +240,4 @@ Commit on 2026-03-12 09:47:39: Enhance frontend in Computer-Vision-Object-Detect
 Commit on 2026-03-12 15:38:00: docs: Update README for Computer-Vision-Object-Detection-CPP
 Commit on 2026-03-17 16:52:27: fix: Resolve bug in Computer-Vision-Object-Detection-CPP module
 Commit on 2026-03-30 10:45:15: style: Format code according to standards in Computer-Vision-Object-Detection-CPP
+Commit on 2026-03-30 15:04:56: Fix incorrect data parsing in Computer-Vision-Object-Detection-CPP
