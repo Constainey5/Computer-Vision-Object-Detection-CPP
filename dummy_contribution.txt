@@ -248,3 +248,4 @@ Commit on 2026-04-17 11:16:31: chore: Update dependencies for Computer-Vision-Ob
 Commit on 2026-04-17 13:11:38: build: Update build configuration for Computer-Vision-Object-Detection-CPP
 Commit on 2026-04-28 13:58:23: style: Format code according to standards in Computer-Vision-Object-Detection-CPP
 Commit on 2026-05-05 10:31:06: ci: Configure CI/CD pipeline for Computer-Vision-Object-Detection-CPP
+Commit on 2026-05-12 17:58:24: Implement model evaluation in Computer-Vision-Object-Detection-CPP
