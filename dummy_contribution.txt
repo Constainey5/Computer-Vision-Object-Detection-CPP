@@ -251,3 +251,4 @@ Commit on 2026-05-05 10:31:06: ci: Configure CI/CD pipeline for Computer-Vision-
 Commit on 2026-05-12 17:58:24: Implement model evaluation in Computer-Vision-Object-Detection-CPP
 Commit on 2026-05-13 10:12:34: chore: Update dependencies for Computer-Vision-Object-Detection-CPP
 Commit on 2026-05-13 16:01:49: Implement user authentication in Computer-Vision-Object-Detection-CPP
+Commit on 2026-05-18 15:01:24: docs: Update README for Computer-Vision-Object-Detection-CPP
