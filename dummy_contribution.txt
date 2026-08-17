@@ -274,3 +274,4 @@ Commit on 2026-08-05 13:41:44: style: Format code according to standards in Comp
 Commit on 2026-08-05 14:46:22: fix: Resolve bug in Computer-Vision-Object-Detection-CPP module
 Commit on 2026-08-05 15:48:12: style: Format code according to standards in Computer-Vision-Object-Detection-CPP
 Commit on 2026-08-17 09:13:07: Fix memory leak in Computer-Vision-Object-Detection-CPP
+Commit on 2026-08-17 14:49:04: ci: Configure CI/CD pipeline for Computer-Vision-Object-Detection-CPP
