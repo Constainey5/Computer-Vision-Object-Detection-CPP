@@ -278,3 +278,4 @@ Commit on 2026-08-17 14:49:04: ci: Configure CI/CD pipeline for Computer-Vision-
 Commit on 2026-08-17 16:40:29: perf: Optimize Computer-Vision-Object-Detection-CPP performance
 Commit on 2026-08-19 11:25:31: perf: Optimize Computer-Vision-Object-Detection-CPP performance
 Commit on 2026-08-24 13:48:10: fix: Resolve bug in Computer-Vision-Object-Detection-CPP module
+Commit on 2026-08-25 11:41:36: Implement data validation in Computer-Vision-Object-Detection-CPP
