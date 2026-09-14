@@ -281,3 +281,4 @@ Commit on 2026-08-24 13:48:10: fix: Resolve bug in Computer-Vision-Object-Detect
 Commit on 2026-08-25 11:41:36: Implement data validation in Computer-Vision-Object-Detection-CPP
 Commit on 2026-08-28 11:33:26: build: Update build configuration for Computer-Vision-Object-Detection-CPP
 Commit on 2026-08-31 15:10:11: Enhance backend service in Computer-Vision-Object-Detection-CPP
+Commit on 2026-09-14 13:42:19: ci: Configure CI/CD pipeline for Computer-Vision-Object-Detection-CPP
